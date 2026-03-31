@@ -48,6 +48,7 @@ To run the segmentation on your local device, use the following terminal command
 
 Bash
 python src/predict.py --source data/test.webp
+
 📊 Results
 Upon execution, the model processes the image and saves the output (containing masks and confidence scores) to:
 runs/segment/predict/
