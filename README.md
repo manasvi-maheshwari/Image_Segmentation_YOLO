@@ -12,6 +12,7 @@ image-segmentation-yolo/
 │   └── predict.py      # Main CLI execution script
 ├── requirements.txt    # List of Python dependencies
 └── README.md           # Project documentation and setup guide
+
 ⚙️ Implementation Pipeline
 The project follows a structured engineering pipeline to move from raw data to segmented output:
 
